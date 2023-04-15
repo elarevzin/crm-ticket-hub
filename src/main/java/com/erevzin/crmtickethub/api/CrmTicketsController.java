@@ -53,5 +53,4 @@ public class CrmTicketsController {
         return ResponseEntity.ok(crmTickets);
     }
 
-
 }
